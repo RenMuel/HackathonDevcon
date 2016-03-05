@@ -1,2 +1,2 @@
 # HackathonDevcon
-A hackthon exclusive for Devcon GitCodeCamp Student Edition
+A hackathon exclusive for Devcon GitCodeCamp Student Edition
